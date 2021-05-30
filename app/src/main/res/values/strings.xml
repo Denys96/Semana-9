@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Agenda_SQLite</string>
+    <string name="NOMBRE">Nombre</string>
+    <string name="GUARDAR">Guardar Amigo</string>
+    <string name="DIRECCION">Direccion</string>
+    <string name="TELEFONO">Telefono</string>
+</resources>
